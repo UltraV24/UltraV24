@@ -1,0 +1,15 @@
+{
+  "name": "ultrav24",
+  "version": "1.0.0",
+  "description": "<!--\r **UltraV24/UltraV24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./tailwind-component/style/input.css -o ./tailwind-component/style/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
